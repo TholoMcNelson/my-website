@@ -1,5 +1,4 @@
 # my-website
 
 POST INDEX FILE titling
-update under its branch
-updated locally
+updates done on master on GitHub b4 rebase
